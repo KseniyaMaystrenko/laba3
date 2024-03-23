@@ -45,4 +45,4 @@ print(w(5))
 
 используемые источники:
 
-[Рекурсия](https://youtu.be/GLaH7YYO-2I?feature=shared)
+[Функция](https://youtu.be/GLaH7YYO-2I?feature=shared)

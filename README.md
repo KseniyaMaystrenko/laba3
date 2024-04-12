@@ -83,4 +83,6 @@
 
 [Функция](https://youtu.be/GLaH7YYO-2I?feature=shared)
 
+
+2 ссылка
 [Списки, кортежи, словари](https://youtu.be/Rq3UqTYc6mA?feature=shared)

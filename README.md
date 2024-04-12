@@ -82,3 +82,4 @@
 используемые источники:
 
 [Функция](https://youtu.be/GLaH7YYO-2I?feature=shared)
+[Списки, кортежи, словари](https://youtu.be/Rq3UqTYc6mA?feature=shared)
